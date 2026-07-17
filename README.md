@@ -1,5 +1,2 @@
-text
 Bienvenidos a mi zona de juegos
-[Haz clic aquí para jugar]
-(https://gamedistribution.comgames/block-champ)
- 
+[Haz clic aquí para jugar](https://gamedistribution.com)
